@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HelloApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#CF9CFF</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="android:statusBarColor">#000000</item>
+    </style>
+
+    <style name="ToolbarTitle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+</resources>

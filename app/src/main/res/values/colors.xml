@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#0b0b0b</color>
+    <color name="card_bg">#161616</color>
+    <color name="text_primary">#FFFFFF</color>
+
+    <!-- Light Purple (Buttons) -->
+    <color name="purple_200">#CF9CFF</color>
+
+    <color name="input_bg">#151515</color>
+
+    <!-- FIX: Border color should be purple, not black -->
+    <color name="outline">#CF9CFF</color>
+
+</resources>
